@@ -1,0 +1,2 @@
+# Financial-Modeling-Statement-Dashboard-using-IBM-Cognos-Analytics
+The Financial Modelling Statement Dashboard offers a detailed overview of a company’s financial health by visualizing key financial metrics over time. Designed using IBM Cognos Analytics, the dashboard focus on critical indicators such as revenue, earnings, EPS, market capitalization, P/E ratio, dividend yield, and financial assets and liabilities.
